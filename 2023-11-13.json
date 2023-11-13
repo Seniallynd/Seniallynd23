@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Garcia",
+  "age": 23,
+  "address": {
+    "street": "Rasah Path",
+    "city": "Jecazluh",
+    "state": "CO",
+    "zip": "95532"
+  },
+  "contact": {
+    "phone": "(301) 243-9009",
+    "servicePhone": "800266393"
+  },
+  "birthday": "1974-04-08T03:45:31.026Z",
+  "ip": "52.111.151.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Wifvetdar hejjicfab apa tes owdaki umueji vo uru fenle su suvezwu ihli toje fo epjabam neufira len. Uj petkohbop nur wo wovu zuhofu wo pi vo leltioko owajuze em hanki. Pibigja muwit alujuju usizicu rogfa taki lecbig lake tiagki igwaf kapukif nif.",
+    "bio": "Ofihe ra lopevar tif na rejfav rormur rovcok mekum binwobe rif wul lirmezpe pacici. Ra om pugniz ojosig dovgead pagedisiv ra dac gigip tewzo doktug ba gi modif sav zom mero. Jufubfep lep higojmeh ivobur mid govo tudjigop ta zuholu seawaji tamedepa bipa ogkiz mirwahfi vijad aduamugo ezdehnaf birfic."
+  },
+  "apiKey": "b5daefdb6d80fa913664eceec5b285e3b7cbf41fd8cada59f116cd9ea747dc57",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
