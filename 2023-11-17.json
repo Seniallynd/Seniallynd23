@@ -1,0 +1,26 @@
+{
+  "name": "Catherine Dixon",
+  "age": 50,
+  "address": {
+    "street": "Deva Key",
+    "city": "Wolisipu",
+    "state": "NY",
+    "zip": "99637"
+  },
+  "contact": {
+    "phone": "(477) 763-5668",
+    "servicePhone": "800799675"
+  },
+  "birthday": "1966-06-15T07:22:06.683Z",
+  "ip": "147.191.66.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Eksof je jarfar bu gubu bohlezji bo evidalom opozabzuv sokil zifotje bawoti. Gofet foseh ji eszi hikeis tekkur rotilib anu hupodla lelopub oziit zemja tosefuce itosaw sop ecebat. Cewuse ciow moppu pakaram gevebjug kafabobo hot haga pohnabe ivpilem fod ce al nupbap luine fig bi habduh.",
+    "bio": "Ol holnama cigi weplacgub jenki vuje hocan hunlukbos wuphogfez ni citak wub hahaf cowsizsu rotgadja ah ma zibji. Dukisra ces cijbiosa uski ziduvoico igejtoc mec decgo wus hociw tic licpobuti mohihok cukah findola. Riat liohecon ulevos huvo vasze je vovituhuj dugoedi cama zian up olu le tacoriebe ubzac."
+  },
+  "apiKey": "f9248ce4fecf0e94f903ffc551618c7d9ac20b78c9ca973b46b0697ddd39e1b8",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
