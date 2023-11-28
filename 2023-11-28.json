@@ -1,0 +1,26 @@
+{
+  "name": "Jane Malone",
+  "age": 37,
+  "address": {
+    "street": "Vivu Street",
+    "city": "Cuszuijo",
+    "state": "KS",
+    "zip": "76615"
+  },
+  "contact": {
+    "phone": "(457) 670-9048",
+    "servicePhone": "800116375"
+  },
+  "birthday": "1965-12-24T17:54:29.184Z",
+  "ip": "205.233.247.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Be houwaah okigatne tifu mobhit ruwavi ruvmuov howifeab ejhineh gajvehib pumbuk kierken uw wup vihuwsa ve cikke. Apva lo gak lirziek modujuad lizze sov towel patfibil ciocge zud gaervi ibiheula zavica doejohok ne. Depakas aci tirag fobon hafu bak ko opu himonij veptegke opdiz si nazec saro kovval feb jubcas palpa.",
+    "bio": "Munere hosdo hu caro nof ujeeluli maclok je zupmip ibene sezuk je giwido mamem. Nugrotun anataz daovhe sub sen sob ama guk joah hopukma agko tapmaw nildop. Anahe huvcetgud gozivwa wuope ahpusi gummarhe tancettej roti wov hijipi kueruego tursu te egekujuc ehabiis mofvenco. Babov cofpal vutwu atura avgi zife avoregi vi hubumlem zahur san uc fubuwji peiwuzu mu satuwiz ufuonu."
+  },
+  "apiKey": "0ff73b3da36de53531dbc0694c6d57d91fdcbfa9f14d851d09b14f63e06dd2c1",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
