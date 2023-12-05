@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Buchanan",
+  "age": 60,
+  "address": {
+    "street": "Anbun Glen",
+    "city": "Caajuge",
+    "state": "MD",
+    "zip": "42304"
+  },
+  "contact": {
+    "phone": "(514) 496-8647",
+    "servicePhone": "800538751"
+  },
+  "birthday": "1996-11-17T10:49:33.654Z",
+  "ip": "116.9.132.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Subwaeli boizosi zijpe de ahjicwu uci raromus kuenhu ni vozsuzuc nenis alzamhi ekvuh tehbeko wodar risbu. Hobojbe bivalel giftag lagveub cu anbu abuhujo cilurpe bizga lapkugla vitda utim egobozpu dudutka gizkujos. Miwdedlad atopo du tawnire nevikwe ma hawkevep cuzuz del ukvap werir mevmeb voiseik elpa.",
+    "bio": "Oguom fijikda fohcir to necatu tah po lu vi uwfom mirjukro ja. Ma heuheko ugohizri oc tu sovmat giap teva let so zo ilkuc fefiw bewifa eto ni rur rueju. Sum kerew ze mata suvefed kowej ogo me uf asocazmi le ziro."
+  },
+  "apiKey": "c46727e35592fbd2d802d2e5e3141be6a93603025119155680546117aae2c42d",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
