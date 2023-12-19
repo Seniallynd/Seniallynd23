@@ -1,0 +1,26 @@
+{
+  "name": "Sue Gill",
+  "age": 54,
+  "address": {
+    "street": "Kikbos Highway",
+    "city": "Fizjagtus",
+    "state": "LA",
+    "zip": "62870"
+  },
+  "contact": {
+    "phone": "(968) 792-8215",
+    "servicePhone": "800319715"
+  },
+  "birthday": "1960-08-21T18:30:31.563Z",
+  "ip": "48.55.224.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Rapid dek ihuku taslig rasfo zibtet cusahe re digaza bapa zu kah riwon pagol. Elinurvi dib up pov sikjiwjuk hop pehi meb isejda tadvev net kuksi. Binjobnac huf mapovbid lu orij jus tahicimo oj we geswig la gapno cu nikkuwe mi oc sabcifgas lakcijse.",
+    "bio": "Mah lop pevcajcan nelgom hicduwoh tetakve awuelnem kanoj he ru guzuzhoz wi gogjoifi ivenov cadbehuz sepeepo hag uje. Ho mid nomsuf tun je fom ru mod nophid do wapa kiv upvav wopzil zacasu. Sewpit oco mog fab viic raf cu penifvef wiwe medahhom amecop ubgaj el wuz nev nowbawi zizdev. Vedlu de ufnabmuc bapma gocompu iti cazeeto vadumina itale zu biw udmir me uzutu."
+  },
+  "apiKey": "3cf950295f45dc3f80e5eb066ce5556352c3ae3bbbf72803d2a8c4fe64876d57",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
