@@ -1,0 +1,26 @@
+{
+  "name": "Robert Cox",
+  "age": 48,
+  "address": {
+    "street": "Kejo Lane",
+    "city": "Vodenji",
+    "state": "KS",
+    "zip": "45980"
+  },
+  "contact": {
+    "phone": "(445) 734-5172",
+    "servicePhone": "800221169"
+  },
+  "birthday": "1959-07-12T14:54:15.364Z",
+  "ip": "239.20.230.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuknivo uf viki be eh andokco ehocitan cat ka igomuvof omecanar fun zultok zolo bemag mo futlew feswuzob. Up remun him kubot nimodod oc ebu fu vaec jeger zohze arfoh tiehadu ru lijigi dudeov kawojro. Ihoserzun reka cu vif gual no davadcew ipo fo ro esedidaf nojfucgu nege daviko bimtoino meritev sel cozmi. Papvazka za hos nim miz udziwgus usra tupwanalu evvusnup wisa one zemvo ziffet so bized apuvof.",
+    "bio": "Ecuki marotpif wohunazun nordepjek wijzup jiweor hunaw giz lupaz howirar besuvvo roop vogge bim eplad. Ilwadica tuwfi sarladi lavot nefgah kicjocjif mowovni cuzmaif namawfe tilocaza vowla se. Ji wu ono macebwup eto hobtavwar tabav ogazugaf jom imvap tumul jumfuc ujedi muv paci anonwum."
+  },
+  "apiKey": "8432dee89085d52a4336c630e48f9dc9aea084a428dd0db0252dacac0fa21692",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
