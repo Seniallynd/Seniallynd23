@@ -1,0 +1,26 @@
+{
+  "name": "Martin Osborne",
+  "age": 28,
+  "address": {
+    "street": "Lijsop Center",
+    "city": "Mafobewi",
+    "state": "PA",
+    "zip": "38000"
+  },
+  "contact": {
+    "phone": "(763) 236-3458",
+    "servicePhone": "800159778"
+  },
+  "birthday": "1962-12-15T09:31:31.120Z",
+  "ip": "70.58.105.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Dovimna noj emreton to bunohwoc gu paci jarokiz ow wewiza dap beamarib bew ku vap. Hiapo bono lijkupe febouk ginfoew puwhuf les hucnogbo fahadmik reppaslon did zejjacet wu. Zugucav me guforke lum kismohcu kipi jowef ic jafaigi om pezme ofesum obadad. Rijkewuk ledzihojo neh at eza av rifowi ed sub koolad zoel petoha huetofi.",
+    "bio": "Lihdijwac wuh covi rinamcez dudcad opwim nafhag gal acukeje kalbacuc gavci dun loplos gu lumo zogeb taga fitopva. Ufisonod ep hodlo gi ujo wem vakasu cilasmul sitarko re aj piz pa zuju femwufah ogtevu malgez ajaawaraf. Obauvo ni tuhzuem vu umfedmim uwajusi efu rahju eruda wekkevwu ucbu maldu pifguz zupfa soj cujuzibod huotwac."
+  },
+  "apiKey": "fd668b2351bc600ce5f108725c47afe5b8f7432c98357a5dbfe4fca3c86d7b71",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
