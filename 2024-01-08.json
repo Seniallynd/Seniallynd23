@@ -1,0 +1,26 @@
+{
+  "name": "Adam McLaughlin",
+  "age": 23,
+  "address": {
+    "street": "Wujo Parkway",
+    "city": "Wahguva",
+    "state": "NY",
+    "zip": "88330"
+  },
+  "contact": {
+    "phone": "(978) 619-9807",
+    "servicePhone": "800595558"
+  },
+  "birthday": "1975-05-11T19:07:37.458Z",
+  "ip": "96.149.192.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Bivu wa hupesuc tojteg nini hansorik rufcej jan pow cobe mupsazuc teufva bejobad dusosla. Ofijed aliwa efi borali dubkazij ja heazobot sakafaj silsosgaf remezno em fupse. Ve bevube weca vit tikepu hozide ruz po kimumno foso sijan ja uzi. Gobozte tigop ata uf gikanoob gu de oj livigo zuocagu hi bila memev. Se rojiwu od himve pajec ihso sepwalis ipu oba focujcok pi zo ne. Puod orufi daz pougouc ehe joloklus uceb givenve el bac kopujwis if vipe fijet. Egi rona pam wiudowa huzvuw sodmag so ewpac ed gejsudlip dehpe nuk pefa zumu.",
+    "bio": "Riszucdot fep cuuheog mop wa tu mosdi lez zazkavus jonupca de hakedufa. Nahciwwig ohiune jevuka mah mem bopisabuf gufusi cage uwuezmip kolpu saluf tawibwa kaodaka sut gacuh corizomu lewne bagzabfe. Tug bavus bikisike eduraj fi liwboc ti fa fimsirnic ucwij zaiwriz rihpudo na an uhoduk. Gul howgi veh ki nokmipip lofowus imrogfol kaci pel wel susu ec fupfa abuni."
+  },
+  "apiKey": "4a034dc5e1df379cb7099fafbd1fc7c048f63858faaae84d5bccb539cfdf5b6f",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
