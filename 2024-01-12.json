@@ -1,0 +1,26 @@
+{
+  "name": "Theresa Klein",
+  "age": 34,
+  "address": {
+    "street": "Leso Square",
+    "city": "Vijamliz",
+    "state": "ID",
+    "zip": "25756"
+  },
+  "contact": {
+    "phone": "(876) 690-6196",
+    "servicePhone": "800874329"
+  },
+  "birthday": "1974-05-18T19:21:38.403Z",
+  "ip": "66.52.128.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Eluka leukipe de me jajalrol fa okuomtiw fakuj vokickuz muj ra fiwicno vezofep sapbivcof. Va jodvazoh pifata vip ureisuba melufwo ase heh wocvozom ud tubana gapkaka ra muscout rek fabpinu. Vu kodenal cof vekfo viwkeskip selnuf ke gofte wubkejbur zocaodu povfu zo op.",
+    "bio": "Fafu iw il egabar taoreku gacoh gibnu sulpen zi miwo zev jez ije arajecom wum do. Caseb janozom keg durdul gehepjof ibatamaf fake oslof ahunuzgip sov cuhnas lumjaz zep jek zuvciv fipebu maw. Wokdov ase zuscugzej bugebre sutpila si paz ho ped leowa zuteziah fe."
+  },
+  "apiKey": "217a243788353d25e9c693c651e3cf6435dca434b9f2ab900d4c164ffd74e173",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
