@@ -1,0 +1,26 @@
+{
+  "name": "Dean Ray",
+  "age": 28,
+  "address": {
+    "street": "Savkin Manor",
+    "city": "Lutgohzu",
+    "state": "RI",
+    "zip": "33429"
+  },
+  "contact": {
+    "phone": "(212) 919-1699",
+    "servicePhone": "800454443"
+  },
+  "birthday": "2001-06-11T18:34:29.265Z",
+  "ip": "186.50.110.134",
+  "foo": "bar",
+  "profile": {
+    "about": "Vilmoto nevlavri ugpec diwa iraze depha vi ma gajuju mufe nidoze lehdotu. Pot etba hisof vad mafar re afci fazeosa giv levude wokze go omte zagi. Cec cumzu wu certekdim gebkipgiz masres rasfiga cup nudok ipu ik jew arotus ebuipi. Uzja zolu tov fa naljovdo febhiar civbub wi suva edgudpe jubpulse adte vujhedose keg taru vuko. Gak vonpus gucakni icum zojunad kivut vu urimed vivotu ojwehoj fekaclad modat giepca vog johapca navu cer. Tositlel zegmug asumev bibtigfi divzu apopodto cofoh je cud pezukzij jobitifu pubnemji emtir pacuzuna jompazra risufif.",
+    "bio": "Dufubgu vuju suulko zopi kaniku tekifo lihdenbup gok miwilehoz kiw pul zoceguw ipo ka obmeoga hekuro zaeb kiacuhu. Liupzu otleculi uw pimaje sosfec zimemo vatirnad iroba nic ku fip hajvi hehen oda. Hesponho celej wero wocu hucori vupkil vitbac netem ato tivdiz kelpe gawto bez agupajohi tilehmu."
+  },
+  "apiKey": "5ca3f95e5c2870e508cd0d8bb5112f2a271a7109351090ca8611a420f85ff2f6",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
