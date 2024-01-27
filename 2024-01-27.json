@@ -1,0 +1,26 @@
+{
+  "name": "Georgie Ward",
+  "age": 52,
+  "address": {
+    "street": "Buho Key",
+    "city": "Cemutru",
+    "state": "ME",
+    "zip": "11811"
+  },
+  "contact": {
+    "phone": "(564) 707-1916",
+    "servicePhone": "800163847"
+  },
+  "birthday": "2005-06-26T02:53:27.115Z",
+  "ip": "159.230.148.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Hamod zigawrov fa iheitieki rehwe viali heruov cit wa bali cegkocpe otakjuw belaw vor luzowimop ohutefji. Od pab sohjup ompogmin foh zupbab ki kujozpi hajuhco osi loncejdis rig iciohju. Bupupki kogu korwuf najco ol biaro mi do be na bu riteljah felilci lunwe.",
+    "bio": "Mezjizu pati sabvez uvdaf giz rip dimattos porwipvo neni uzathu zeknehuc fog po iguhibut. Dindec aznidjih ipoagiso obnosbu mivmoj akomi juvte jimga edbij aci ta su lirubguj raciz ice dezomja luzzotwu. Awu ba uzri nih soucakev tuvfitzad oruonri utpimu jir inotodne buwfos ecfoswa pudinbav mafsipse japhuf fotohnon."
+  },
+  "apiKey": "065e4e7a12c0f6d90041123a7184ba96d16b9895a4dc8fd92c223f0c6337c07e",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
