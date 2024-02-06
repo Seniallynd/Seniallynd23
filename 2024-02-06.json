@@ -1,0 +1,26 @@
+{
+  "name": "Theresa Perkins",
+  "age": 44,
+  "address": {
+    "street": "Ovonub Mill",
+    "city": "Bikuful",
+    "state": "NV",
+    "zip": "48286"
+  },
+  "contact": {
+    "phone": "(828) 963-9482",
+    "servicePhone": "800229561"
+  },
+  "birthday": "1963-12-06T19:07:21.969Z",
+  "ip": "80.117.159.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Gehho fe zuwil zaevalak tiesod mi go gorocojeh owo vo ahekornur de ozevu ipi neckovfu. Hi ris lulukeube tawve mezuwba seejoju esavata zovi negimwup ikaev uctujinu lag zizkop fi mojcojo lam. Oneltu mu avseva deci dogisam bi cu acizobas dodma gerol ompo conelofaj guh gim. Pu ev gumpom ohadej ew zo ba abzira acutote fuw so jolvev res.",
+    "bio": "Te hihluhug haheb tajkefi hoj po ilogev lemdufcu koegafo awogadosi jemlep nufpiw te gerahoobu ive. Wog naso regnusju meh fijawed uca kikewah wo vefdu empap ikufobu wuzo hicucu. Gaz temeep tocpe bipo ojle wom sesuju hub jif jug di jok oju pumjazpa. Uki tivkig mahju lu pilevuad uwtahru gum bilab se cuna juragu kaezaiw zoze nicuzek boljafwih huhzarev zogu. So hik moharup jam pushon niham wo kirudcu ro kec hawdegpa furjecam niklawcup am wir banocan wotub."
+  },
+  "apiKey": "d8dec2de9c69144d0cd83f4af55a1bc31db8f29c0a375ed2f2a7a2d9c8b27f95",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
