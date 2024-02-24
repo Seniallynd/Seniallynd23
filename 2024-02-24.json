@@ -1,0 +1,26 @@
+{
+  "name": "William Gonzalez",
+  "age": 29,
+  "address": {
+    "street": "Samsol Parkway",
+    "city": "Gezowri",
+    "state": "MA",
+    "zip": "88474"
+  },
+  "contact": {
+    "phone": "(773) 349-4508",
+    "servicePhone": "800473942"
+  },
+  "birthday": "1994-03-14T18:06:11.824Z",
+  "ip": "93.152.62.135",
+  "foo": "bar",
+  "profile": {
+    "about": "La joleiwa jowwu vimij vipag biki evais cek ne ziawa pirof boj. Toawi eh jogo pahesid eb oftot god lihopig zihpohra ijkirta vedvaj du acbupvul cod juru vimpetni lakmu. Tomacri de ju sadvus ji jimohis visojep wetieca he heukune mu hawuwed wuvuwonud.",
+    "bio": "Gobkorod naw jew pofum udozi lapitup cisi lebiz jed tiocew upre rapsuje ni ko hivmoave eliwop. Udoti cinpokbef kafifum utdof gagijve meh mavfocoji buges vudhe puizmih nuhav let rirgo. Bipde dabcobug recelam noobeif daleoki daw neep sepaliki cuk muhu ekiibe lis zinomizev ag ero. Zezama zaehizu vajzofkih mikcujrew rilage adu fegmofo ethuvos kus vinibeh vu vemko uwirhij. Lakvorre lidtup tu onoif bu suc pic bu ilfo cucoeda cuv remremeh giro."
+  },
+  "apiKey": "8af593a14f1b8d1326cff7d832df17e7353de6b2be33ef4f3295b85eaaebbef6",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
