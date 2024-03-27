@@ -1,0 +1,26 @@
+{
+  "name": "Michael Day",
+  "age": 23,
+  "address": {
+    "street": "Jumod Way",
+    "city": "Latmitul",
+    "state": "MA",
+    "zip": "02962"
+  },
+  "contact": {
+    "phone": "(836) 785-2824",
+    "servicePhone": "800183939"
+  },
+  "birthday": "1998-05-21T19:31:54.115Z",
+  "ip": "159.224.235.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Akifol zisirtal merfez irpez ovetataj kise boh goepvu le weguh titju gov hozukona vivmunram wej. Rit jefopfi cu migeg ewirapa ruh ornulcel om asalirfi monre pegrafdo abo. Elo zokgemu pej imke necvo vofeci nan nigfumki wunap ricahfej berras ukoor.",
+    "bio": "Soodohuh mejopkah adulame cekuw wurheik penata muc culhaja kebvap gah juviv cuzbuho nivgac diuw opozed ivre su ganfurcus. Buw lefi cu dul ikbo zotuwno kescikke cofo honcugu dahnu ho suove wozzuive rulgojzaw pajpoj oshag. Fak biwcenu uljon sehoza muvhazhig sommej cupu fugegiva gop hurnejci vaciz tup."
+  },
+  "apiKey": "b224c95743be48b1c0f9f94b47ae9fcd831d7294f639309f21a9232ebc186ace",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
