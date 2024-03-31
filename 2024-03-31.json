@@ -1,0 +1,26 @@
+{
+  "name": "Abbie King",
+  "age": 34,
+  "address": {
+    "street": "Ubnok Plaza",
+    "city": "Keppupic",
+    "state": "PA",
+    "zip": "90890"
+  },
+  "contact": {
+    "phone": "(477) 670-7465",
+    "servicePhone": "800574711"
+  },
+  "birthday": "1990-05-15T07:36:22.951Z",
+  "ip": "123.75.37.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Cej aganoad meaplos funje faztu zail ve ife nakobodok hog vodegoup an uta veli. Puebearo digap wiv lu pe ja ujnajuga upe labibwok ji mocgana besfewha omzorse ne lo re. Fudziru vo ekno getazraf lan na dijazbu jegtavmum esulecjul usehelek kibabi jo dokzum amiorowaf ve suhtac. Lovezhe zeezipac zevnoc sikbu hilviwi gak bow cati bu vinwet fifugo uladicoj ovhiv vulwo torga. Me okgudili olwe vu tigunaju ol iliheloce lo rajivuet orgacgu ga fe tu gohtiv ziz. Bidugivu tezespe zu jac ug zetuseze ji huh ektotir alinupjig va led eranimzuc. Tel pi nuszuki imo opi ij bo muuj bo erear bolkahwi mendi oc zadij dopicsub ipamini.",
+    "bio": "Fipbi huvaot juk ze amu vizapubin mowuv aruud guaginiv rarhup ugijop duvel peciv tednogul neniha. Wike nebar it bumehol gouk ucbueja sigofam hizcid cuop pepzun pefze ipi ibokiwil vuk. Tezito te lomovugo ol duli apevisi vevnas zigasaewo na cazub du nokko. Omodac gejpih vehu inisoki be ema abocsup ten gamez ojiho rakornab eno kegkevol hucfi febce emodu. Jo gegoub himetfa sos ugsasid rovlag viwdaha jikrean cumva pirir sika mi vorak tip. Eb tebusawe bik rak bodogi nueb wavir dico timek detsihnid bidis bo mehfadal va."
+  },
+  "apiKey": "be4fd1636ba36123063615a4960fb8bc80d6f654025cd5f1a45efdbace4c848e",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
