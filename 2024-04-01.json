@@ -1,0 +1,26 @@
+{
+  "name": "Francisco Erickson",
+  "age": 34,
+  "address": {
+    "street": "Ozraz Mill",
+    "city": "Sumojli",
+    "state": "DC",
+    "zip": "36158"
+  },
+  "contact": {
+    "phone": "(965) 995-7694",
+    "servicePhone": "800236961"
+  },
+  "birthday": "2002-04-15T06:23:35.267Z",
+  "ip": "111.26.243.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Kezueva acfokin lan baf jot or joez degekes juw lah sa baot sumeles jel wo go pugne jin. Ric af wejpid waeller jagap wu rejwiv sotween ubegek aglik wo betro pel. Movolmi evrerwe mujebduv wiljuw ve fijvijku olusi recoz mitdani vo milto mo uce toor efaus. So zup cilvaw humoisa kemtom egoka utiez we awi fu if fuhomap iwoikaju. Ekdegdof meovoca jamvadbot gelasut gitev riwim otu sug lujho fiw kifok duadbi nurjir ze mun bacgu.",
+    "bio": "Agecudpid de niwicoh za tumil ja pakdadwid cicta jobmo usebam sigelwi kanlopa cisa gegug le fi esare. Mufduj erafa vugorgu zogzew getzi pa oh cej di fozoaca fewo borbe ozozozo uje rifo jemi esi. Sak gutor zir ta gekjah refkojid evbe ajre rosmedro jokdag woonkug cileohi tedniwela fa jisgor. Po zukdi bucbe obip vu zihit tumzusre hisoptop ufeumnar vevat du lubu. Jetib emuke pen wel lezdothos pu kurlovho buj siw zobfuwvo bevuzihos edzunat ze uj wewa zorruje cubur."
+  },
+  "apiKey": "9be3e7a5374d9b7d44a4acb381412c83df9109d5161f066a1c0f9b6e3225132b",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
